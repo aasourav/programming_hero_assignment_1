@@ -1,0 +1,151 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half_half{
+    width: 50%;
+}
+.half_half h1{
+    margin-top: 200px;
+    color: #575757;
+}
+.half_half h1,p,a{
+    margin-left: 139px;
+}
+.Top_section{
+    margin-top: 50px;
+    display: flex;
+    
+}
+.Top_section p{
+    font-size: 30px;
+    color: gray;
+    margin-bottom: 85px;
+}
+.Top_section img{
+    width: 100%;
+}
+.Top_section h1{
+    font-size: 70px;
+}
+.Top_section h1 span{
+    color: #fca165;
+}
+.Top_section a{
+    text-decoration: none;
+    padding: 20px 56px;
+    background-image:linear-gradient(#FE482E,#FB994C);
+    border-radius: 50px;
+    font-size: 25px;
+    color:#fff;
+}
+
+
+.About_section{
+    margin-top: 130px;
+    margin-left: 10px;
+    
+    background-image: url(./images/shapes/7.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.About_section img{
+    padding-top: 60px;
+    margin-left: 350px;
+    width: 45%;
+
+}
+.About_section h1{
+    color: gray;
+    font-size: 70px;
+}
+
+.About_section p{
+    font-size: 25px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+}
+.About_section a{
+    text-decoration: none;
+    padding: 20px 56px;
+    background-image:linear-gradient(#FE482E,#FB994C);
+    border-radius: 50px;
+    font-size: 25px;
+    color:#fff;
+}
+.Recipies{
+    margin-top: 250px;
+}
+.Recipies h1{
+    color: gray;
+    font-size: 70px;
+    text-align: center;
+}
+.Recipies .title{
+    text-align: center;
+    font-size: 25px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.Recipies .recipies_flex{
+    margin-top: 50px;
+    margin-left: 230px;
+    display: flex;
+}
+.Recipies .recipies_flex div img{
+    width: 100%;
+}
+.Recipies .recipies_flex .rec p{
+    font-size: 20px;
+    margin-left: 0px;
+}
+.Recipies .recipies_flex .rec{
+    box-shadow: 5px 5px 20px rgb(185, 177, 177);
+    border-radius: 40px;
+    margin-left: 80px;
+    width: 20%;
+    padding:20px;
+}
+.Recipies .recipies_flex .rec h2{
+   color: black;
+   font-weight: 700;
+   font-size: 37px;
+} 
+.follower {
+    box-shadow: 5px 5px 20px rgb(185, 177, 177);
+    padding: 50px 100px;
+    margin: 100px 100px;
+    display: flex;
+    border-radius: 20px;
+}
+.follower div{
+    margin-left: 250px;
+}
+.follower h1{
+    margin:0px;
+    font-size: 70px;
+    font-weight: 700;
+}
+.follower p{
+    margin:0px;
+    font-size: 20px;
+}
+.footer{
+    background-color: black;
+}
+.footer h1{
+    padding-top: 60px;
+    padding-bottom: 50px;
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+}
+.footer h1 span{
+    color: #FB9149;
+}
+.footer p{
+    color:#fff;
+    margin:0px;
+    text-align: center;
+    padding-bottom: 150px;
+}
